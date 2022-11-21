@@ -2,11 +2,6 @@
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=code-explorer73&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Agata Carvalho" />
 
 
-  <div>
-
-![snake gif](https://github.com/code-explorer73/code-explorer73/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ##
 
