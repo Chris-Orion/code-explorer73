@@ -4,7 +4,7 @@
 
   <div>
 
-![snake gif](https://github.com/code-explorer73/Agata Carvalho/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/code-explorer73/code-explorer73/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
