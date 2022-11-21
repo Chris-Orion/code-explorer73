@@ -1,5 +1,5 @@
  <a href="https://github.com/code-explorer73">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=code-explorer73&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=9ACD32&text_color=9ACD32&bg_color=000000" alt="Agata Carvalho" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=code-explorer73&show_icons=true&count_private=true&hide_border=true&title_color=9ACD32&icon_color=9ACD32&text_color=9ACD32&bg_color=000000" alt="Agata Carvalho" />
 
 
 
