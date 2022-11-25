@@ -18,5 +18,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agatacarvalho/) <a href = "mailto:agata.carvalho@etec.sp.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 </div>
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green"></a>
 
