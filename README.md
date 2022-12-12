@@ -4,8 +4,8 @@
 </div>
  <div style="display: inline-block;">
   <a href="https://github.com/code-explorer73>
-  <img height="115em" src="https://github-readme-stats.vercel.app/api?username=code-explorer73&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-explorer73&layout=compact&langs_count=7&theme=dark"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=code-explorer73&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-explorer73&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
 
