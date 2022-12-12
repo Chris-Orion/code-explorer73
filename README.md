@@ -2,6 +2,12 @@
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=code-explorer73&show_icons=true&count_private=true&hide_border=true&title_color=43BFC7&icon_color=43BFC7&text_color=43BFC7&bg_color=000000" alt="Agata Carvalho" />
 
 
+ <div align="center">
+  <a href="https://github.com/code-explorer73>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-explorer73&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-explorer73&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
 
 ##
 
